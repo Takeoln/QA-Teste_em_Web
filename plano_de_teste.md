@@ -32,3 +32,15 @@ Durante a execução dos testes é possível haver contratempos para a realizaç
 * Falta de informações sobre regras de negócio.
 
 Caso houver qualquer contratempo que impeça a realização de um teste, o mesmo pode ser marcado como BLOCKED.
+
+## Estratégias de testes
+Para a criação e execução dos casos de teste serão utilizadas abordagens como:
+* Testes positivos
+* Testes negativos
+* Particionamento de equivalência
+* Análise de valor limite
+* Testes de casos extremos
+
+Comportamentos inesperados do sistema devem ser analisados com cautela antes de serem reportados como bug.
+
+##
