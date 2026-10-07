@@ -20,7 +20,7 @@ Validar o funcionamento da aplicação web, verificando se o mesmo possui compor
 * Testes de segurança
 
 ## Equipe
-**Reponsável pelos testes manuais;** Eric
+**Reponsável pelos testes manuais:** Eric
 
 _Como é um projeto a fins de estudo só haverá um integrante na equipe, eu mesmo._
 
